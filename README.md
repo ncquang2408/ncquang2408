@@ -10,7 +10,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](//www.facebook.com/profile.php?id=100052394029430) 
 
 # 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Verilog HDL](https://img.shields.io/badge/verilog%20hdl-%23F16061.svg?style=for-the-badge&logo=verilog&logoColor=white)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ncquang2408&icon=0&color=0)](https://visitcount.itsvg.in)
