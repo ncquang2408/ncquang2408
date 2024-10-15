@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Github 👋, I'm Quang</h1>
-<h3 align="center">I am studying Electronic and Telecommunications at the University of Science, Vietnam National University in Ho Chi Minh City. My focus is on Analog and Digital IC Design which fuels my enthusiasm for developing and exploring new technologies.</h3>
+<h3 align="center">I am studying Electronic and Telecommunications at the University of Science, Vietnam National University in Ho Chi Minh City. My focus is on Digital IC Design which fuels my enthusiasm for developing and exploring new technologies.</h3>
 
-- 🌱 I’m currently learning **Analog and Digital IC Design**
+- 🌱 I’m currently learning **Digital IC Design**
 
 - 📫 How to reach me **ncquang2408@gmail.com**
 
