@@ -7,7 +7,8 @@
 
   
  ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](//www.facebook.com/profile.php?id=100052394029430) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](//www.facebook.com/profile.php?id=100052394029430) [![Zalo](https://img.shields.io/badge/Zalo-%2300BFFF.svg?logo=Zalo&logoColor=white)](https://zalo.me/0902736207)
+
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Verilog HDL](https://img.shields.io/badge/verilog%20hdl-%23F16061.svg?style=for-the-badge&logo=verilog&logoColor=white)
